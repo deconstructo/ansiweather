@@ -1,5 +1,8 @@
 ## Description
 
+This is a slightly modified version of the original AnsiWeather script.
+
+
 AnsiWeather is a Shell script for displaying the current weather conditions
 in your terminal, with support for ANSI colors and Unicode symbols.
 
@@ -45,8 +48,8 @@ AnsiWeather packages are available for:
 ### Synopsis
 
 	ansiweather [-l location] [-u system] [-f days] [-F] [-a value]
-	            [-s value] [-k key] [-i value] [-w value] [-h value]
-	            [-H value] [-p value] [-d value] [-v]
+ 		    [-c value] [-s value] [-k key] [-i value] [-w value] 
+       		    [-h value] [-H value] [-p value] [-d value] [-v]
 
 ### Options
 
