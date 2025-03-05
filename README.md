@@ -63,9 +63,12 @@ AnsiWeather packages are available for:
 	
 	-a value
 	        Toggle ANSI colors display ( true or false ).
+	 
+	-c value
+	        Toggle text sky conditions display ( true or false ).
 	
 	-s value
-	        Toggle symbols display ( true or false ).
+	        Toggle icon sky conditions display ( true or false ).
 	
 	-k key  Specify OpenWeatherMap API key.
 	
