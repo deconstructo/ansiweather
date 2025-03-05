@@ -399,7 +399,7 @@ then
                         sky=""
                 fi
 
-                output="$output$text$date$delimiter $data$low$text/$data$high $scale $sky $icon"
+                output="$output$text$date$delimiter $data$high$text/$data$low $scale $sky $icon"
 		if [ $i -lt $((forecast-1)) ]
 		then
 			output="$output$dashes "
